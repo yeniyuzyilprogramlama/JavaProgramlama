@@ -7,7 +7,7 @@ public class Hafta2 {
         System.out.println("-------- \\t Örnekleri --------\n");    
         
         System.out.println("Adı:\tAhmet");
-        System.out.println("Soyadı:\tCan");
+        System.out.println("Soyadı:\tCann");
         System.out.println("Doğum:\t2007");
         System.out.println("Yaş:\t18");
         
